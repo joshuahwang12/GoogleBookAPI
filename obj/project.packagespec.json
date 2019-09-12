@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBooksApi\\GoogleBooksApi.csproj",
+    "projectUniqueName": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBooksApi.csproj",
     "projectName": "GoogleBooksApi",
-    "projectPath": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBooksApi\\GoogleBooksApi.csproj",
-    "outputPath": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBooksApi\\obj\\",
+    "projectPath": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBooksApi.csproj",
+    "outputPath": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

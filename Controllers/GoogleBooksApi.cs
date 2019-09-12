@@ -9,10 +9,10 @@ namespace GoogleBooksApi.Controllers
     {
         // GET api/values/5
         [HttpGet("{query}")]
-        public  ActionResult<string> QueryGoogleBooks(string query)
+        public async Task<ActionResult<string>> QueryGoogleBooks(string query)
         {
             var service = new BookService();
-            return service.Query(query);
+            return await service.Query(query).ConfigureAwait(false);
         }
     }
     

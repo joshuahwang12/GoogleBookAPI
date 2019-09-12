@@ -12,15 +12,15 @@ namespace GoogleBooksApi
     {
         private static readonly string API_KEY = "AIzaSyDWvipzjKidrJN7kP2SgjjLBhevcfMB93Q";
         
-        public static readonly BooksService Service = new BooksService(new BaseClientService.Initializer
+        private static readonly BooksService Service = new BooksService(new BaseClientService.Initializer
         {
             ApplicationName = "Google Books API",
             ApiKey = API_KEY
         });
 
-        public string Query(string query)
+        public async Task<string> Query(string query)
         {
-            var result = Service.Volumes.List(query).Execute();
+            var result = await Service.Volumes.List(query).ExecuteAsync().ConfigureAwait(false);
             if (result != null && result.Items != null)
             {
                 var items = result.Items.ToList();
