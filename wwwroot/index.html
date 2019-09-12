@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+          crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <title>Google Books Finder</title>
+</head>
+<body>
+<div class="container">
+    <div id="book-search">
+        <div class="d-flex justify-content-center">
+            <div class="p-4">BOOK FINDER</div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <div class="input-group mb-5 mx-5">
+                <input id="book-name" type="text" class="form-control" placeholder="Search by book title or author..." aria-label="Search by book title or author..."
+                       aria-describedby="basic-addon2">
+                <div class="input-group-append">
+                    <button id="book-srch" class="btn btn-success" type="button">Search</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="init-msg">
+        <div class="d-flex justify-content-center">
+            <div class="align-self-center">Using Google Books API</div>
+        </div>
+    </div>
+    <div id="search-results" class="d-flex justify-content-center row"></div>
+</div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+<script src ="/js/bookfinder.js"></script>
+</body>
+</html>
