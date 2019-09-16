@@ -23,14 +23,8 @@ namespace GoogleBooksApi
             var result = await Service.Volumes.List(query).ExecuteAsync().ConfigureAwait(false);
             if (result != null && result.Items != null)
             {
-                var items = result.Items.ToList();
-                var ret = new List<Volume.VolumeInfoData>();
-                for (var index = 0; index < items.Count; index++)
-                {
-                    var item = items[index];
-                    ret.Add(item.VolumeInfo);
-                }
-                return JsonConvert.SerializeObject(ret);
+                var items = result.Items.ToList().Select(n => n.VolumeInfo);
+                return JsonConvert.SerializeObject(items);
             }
             return null;
         }
