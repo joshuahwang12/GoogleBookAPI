@@ -10,7 +10,7 @@ $(document).ready(function(){
             $( "#query-results" ).empty();
         }
     });
-    $("#book-reset").on('click', clear());
+
     function bookSearch(query) {
         console.log("Finding results for: "+ query);
         fetch('/api/'+ query)
@@ -19,7 +19,7 @@ $(document).ready(function(){
                 if(response && response.length > 0)
                     for (let i = 0; i < response.length; i++) {
                         let item = response[i];
-                        document.getElementById("search-results").innerHTML += ""
+                        document.getElementById("query-results").innerHTML += ""
                             +"<div class='col-sm-6 my-4'>"
                             +"<div class='card mb-3 h-100' style='max-width: 540px;'>"
                             +" <div class='row no-gutters'>"

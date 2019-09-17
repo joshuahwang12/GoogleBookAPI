@@ -39,10 +39,4 @@ $(document).ready(function(){
                     }
             });
     }
-
-    function clear() {
-        $('search-results').each(function() {
-            $('search-results').innerHTML('');
-        });
-    }
 });
