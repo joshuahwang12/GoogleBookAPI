@@ -1,7 +1,7 @@
 # Google Book Search
 Simple web page rendering search results via Google Books API
 
-Built using .Net Core 2.2 and Vanilla JS
+Built using .Net Core 2.2 and Vanilla JS and hosted on Heroku [here](https://joshsgooglebookapi.herokuapp.com/) 
 
 To start up, make sure you have .Net Core 2.2 SDK and runtime installed on your machine. Nothing needed for front-end
 
