@@ -1,0 +1,12 @@
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleBookApi.Test\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleBookApi.Test\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleBookApi.Test\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleBookApi.Test\Debug\netcoreapp2.2\GoogleBookApi.Test.deps.json
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleBookApi.Test\Debug\netcoreapp2.2\GoogleBookApi.Test.runtimeconfig.json
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleBookApi.Test\Debug\netcoreapp2.2\GoogleBookApi.Test.runtimeconfig.dev.json
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleBookApi.Test\Debug\netcoreapp2.2\GoogleBookApi.Test.dll
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBookApi.Test\Debug\netcoreapp2.2\GoogleBookApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBookApi.Test\Debug\netcoreapp2.2\GoogleBookApi.Test.AssemblyInfoInputs.cache
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBookApi.Test\Debug\netcoreapp2.2\GoogleBookApi.Test.AssemblyInfo.cs
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBookApi.Test\Debug\netcoreapp2.2\GoogleBookApi.Test.csproj.CopyComplete
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBookApi.Test\Debug\netcoreapp2.2\GoogleBookApi.Test.dll

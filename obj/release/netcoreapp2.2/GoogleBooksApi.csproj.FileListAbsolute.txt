@@ -4,7 +4,6 @@ C:\Users\jhwang\Documents\Repos\GoogleBookAPI\bin\release\netcoreapp2.2\GoogleBo
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\bin\release\netcoreapp2.2\GoogleBooksApi.dll
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\bin\release\netcoreapp2.2\GoogleBooksApi.pdb
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\obj\release\netcoreapp2.2\GoogleBooksApi.csprojAssemblyReference.cache
-C:\Users\jhwang\Documents\Repos\GoogleBookAPI\obj\release\netcoreapp2.2\GoogleBooksApi.csproj.CoreCompileInputs.cache
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\obj\release\netcoreapp2.2\GoogleBooksApi.RazorAssemblyInfo.cache
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\obj\release\netcoreapp2.2\GoogleBooksApi.RazorAssemblyInfo.cs
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\obj\release\netcoreapp2.2\GoogleBooksApi.AssemblyInfoInputs.cache
@@ -12,3 +11,6 @@ C:\Users\jhwang\Documents\Repos\GoogleBookAPI\obj\release\netcoreapp2.2\GoogleBo
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\obj\release\netcoreapp2.2\GoogleBooksApi.RazorTargetAssemblyInfo.cache
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\obj\release\netcoreapp2.2\GoogleBooksApi.dll
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\obj\release\netcoreapp2.2\GoogleBooksApi.pdb
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\bin\release\netcoreapp2.2\appsettings.Development.json
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\bin\release\netcoreapp2.2\appsettings.json
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\bin\release\netcoreapp2.2\Properties\launchSettings.json

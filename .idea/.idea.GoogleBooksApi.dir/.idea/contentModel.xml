@@ -3,13 +3,51 @@
   <component name="ContentModelStore">
     <e p="C:\Users\jhwang\.Rider2019.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\jhwang\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_.19.00" t="ExcludeRecursive" />
-    <e p="C:\Users\jhwang\Documents\Repos\GoogleBooksApi" t="IncludeRecursive">
+    <e p="C:\Users\jhwang\Documents\Repos\GoogleBookAPI" t="IncludeRecursive">
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="BookService.cs" t="Include" />
       <e p="Controllers" t="Include">
         <e p="GoogleBooksApi.cs" t="Include" />
+      </e>
+      <e p="GoogleBookApi.Test" t="Include">
+        <e p="bin" t="Include">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="GoogleBookApi.Test.deps.json" t="Include" />
+              <e p="GoogleBookApi.Test.dll" t="Include" />
+              <e p="GoogleBookApi.Test.pdb" t="Include" />
+              <e p="GoogleBookApi.Test.runtimeconfig.dev.json" t="Include" />
+              <e p="GoogleBookApi.Test.runtimeconfig.json" t="Include" />
+              <e p="nunit.engine.netstandard.dll" t="Include" />
+              <e p="NUnit3.TestAdapter.dll" t="Include" />
+              <e p="NUnit3.TestAdapter.pdb" t="Include" />
+              <e p="nunit_random_seed.tmp" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="GoogleBookApiTest.cs" t="Include" />
+        <e p="obj" t="Include">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="GoogleBookApi.Test.AssemblyInfo.cs" t="Include" />
+              <e p="GoogleBookApi.Test.AssemblyInfoInputs.cache" t="Include" />
+              <e p="GoogleBookApi.Test.assets.cache" t="Include" />
+              <e p="GoogleBookApi.Test.csproj.CoreCompileInputs.cache" t="Include" />
+              <e p="GoogleBookApi.Test.csproj.FileListAbsolute.txt" t="Include" />
+              <e p="GoogleBookApi.Test.csprojAssemblyReference.cache" t="Include" />
+              <e p="GoogleBookApi.Test.dll" t="Include" />
+              <e p="GoogleBookApi.Test.pdb" t="Include" />
+              <e p="GoogleBookApi.Test.Program.cs" t="Include" />
+            </e>
+          </e>
+          <e p="GoogleBookApi.Test.csproj.nuget.cache" t="Include" />
+          <e p="GoogleBookApi.Test.csproj.nuget.dgspec.json" t="Include" />
+          <e p="GoogleBookApi.Test.csproj.nuget.g.props" t="Include" />
+          <e p="GoogleBookApi.Test.csproj.nuget.g.targets" t="Include" />
+          <e p="project.assets.json" t="Include" />
+        </e>
       </e>
       <e p="GoogleBooksApi.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive">
@@ -24,6 +62,7 @@
       <e p="Properties" t="Include">
         <e p="launchSettings.json" t="Include" />
       </e>
+      <e p="README.md" t="Include" />
       <e p="Startup.cs" t="Include" />
       <e p="Styles" t="Include" />
       <e p="wwwroot" t="Include">

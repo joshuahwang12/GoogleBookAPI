@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "4190ba7ca559743c6e3408779c074a52ed7aea06"
+    "signature": ""
   },
   "compilationOptions": {
     "defines": [
@@ -10,7 +10,7 @@
       "NETCOREAPP",
       "NETCOREAPP2_2"
     ],
-    "languageVersion": "",
+    "languageVersion": "7.3",
     "platform": "",
     "allowUnsafe": false,
     "warningsAsErrors": false,
@@ -27,7 +27,8 @@
           "Google.Apis.Books.v1": "1.41.1.1441",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.NETCore.App": "2.2.0",
+          "NUnit": "3.12.0"
         },
         "runtime": {
           "GoogleBooksApi.dll": {}
@@ -98,6 +99,20 @@
         },
         "compile": {
           "lib/netstandard2.0/Google.Apis.Core.dll": {}
+        }
+      },
+      "NUnit/3.12.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {
+            "assemblyVersion": "3.12.0.0",
+            "fileVersion": "3.12.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/nunit.framework.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3329,6 +3344,13 @@
       "sha512": "sha512-6jZDk7VsnZGLXGREYdy+3v4Xvdtc6zJs9E4mkxmKC3d1B1NxK0fBX0Ir6/wFdmEt95cnoILRQVi2vNCisU6hIg==",
       "path": "google.apis.core/1.41.1",
       "hashPath": "google.apis.core.1.41.1.nupkg.sha512"
+    },
+    "NUnit/3.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oJTrcUcT9wmweBUwgUf0f1XIYy6RZq2ziV+RM95HMKAJGsHPN2i3MKK1dAPvDPMRLz799Llj4eyu/STB9Q7OA==",
+      "path": "nunit/3.12.0",
+      "hashPath": "nunit.3.12.0.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

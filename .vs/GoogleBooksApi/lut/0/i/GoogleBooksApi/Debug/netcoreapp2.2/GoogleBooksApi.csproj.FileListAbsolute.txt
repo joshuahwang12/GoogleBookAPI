@@ -1,0 +1,5 @@
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBooksApi\Debug\netcoreapp2.2\GoogleBooksApi.csproj.CoreCompileInputs.cache
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBooksApi\Debug\netcoreapp2.2\GoogleBooksApi.RazorAssemblyInfo.cache
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBooksApi\Debug\netcoreapp2.2\GoogleBooksApi.RazorAssemblyInfo.cs
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBooksApi\Debug\netcoreapp2.2\GoogleBooksApi.AssemblyInfoInputs.cache
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBooksApi\Debug\netcoreapp2.2\GoogleBooksApi.AssemblyInfo.cs

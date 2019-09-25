@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "4190ba7ca559743c6e3408779c074a52ed7aea06"
+    "signature": ""
   },
   "compilationOptions": {
     "defines": [
@@ -10,7 +10,7 @@
       "NETCOREAPP",
       "NETCOREAPP2_2"
     ],
-    "languageVersion": "",
+    "languageVersion": "7.3",
     "platform": "",
     "allowUnsafe": false,
     "warningsAsErrors": false,
@@ -26,7 +26,9 @@
         "dependencies": {
           "Google.Apis.Books.v1": "1.41.1.1441",
           "Microsoft.AspNetCore.App": "2.2.0",
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.AspNetCore.Razor.Design": "2.2.0",
+          "Microsoft.NETCore.App": "2.2.0",
+          "NUnit": "3.12.0"
         },
         "runtime": {
           "GoogleBooksApi.dll": {}
@@ -97,6 +99,20 @@
         },
         "compile": {
           "lib/netstandard2.0/Google.Apis.Core.dll": {}
+        }
+      },
+      "NUnit/3.12.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {
+            "assemblyVersion": "3.12.0.0",
+            "fileVersion": "3.12.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/nunit.framework.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -218,6 +234,7 @@
           "Microsoft.AspNetCore.NodeServices": "2.2.0",
           "Microsoft.AspNetCore.Owin": "2.2.0",
           "Microsoft.AspNetCore.Razor": "2.2.0",
+          "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.AspNetCore.Razor.Language": "2.2.0",
           "Microsoft.AspNetCore.Razor.Runtime": "2.2.0",
           "Microsoft.AspNetCore.ResponseCaching": "2.2.0",
@@ -823,6 +840,7 @@
           "Microsoft.AspNetCore.Mvc.RazorPages": "2.2.0",
           "Microsoft.AspNetCore.Mvc.TagHelpers": "2.2.0",
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
+          "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.Extensions.Caching.Memory": "2.2.0",
           "Microsoft.Extensions.DependencyInjection": "2.2.0"
         },
@@ -1026,6 +1044,9 @@
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {}
         },
+        "compileOnly": true
+      },
+      "Microsoft.AspNetCore.Razor.Design/2.2.0": {
         "compileOnly": true
       },
       "Microsoft.AspNetCore.Razor.Language/2.2.0": {
@@ -3324,6 +3345,13 @@
       "path": "google.apis.core/1.41.1",
       "hashPath": "google.apis.core.1.41.1.nupkg.sha512"
     },
+    "NUnit/3.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oJTrcUcT9wmweBUwgUf0f1XIYy6RZq2ziV+RM95HMKAJGsHPN2i3MKK1dAPvDPMRLz799Llj4eyu/STB9Q7OA==",
+      "path": "nunit/3.12.0",
+      "hashPath": "nunit.3.12.0.nupkg.sha512"
+    },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",
       "serviceable": true,
@@ -3806,6 +3834,13 @@
       "sha512": "sha512-V54PIyDCFl8COnTp9gezNHpUNHk7F9UnerGeZy3UfbnwYvfzbo+ipqQmSgeoESH8e0JvKhRTyQyZquW2EPtCmg==",
       "path": "microsoft.aspnetcore.razor/2.2.0",
       "hashPath": "microsoft.aspnetcore.razor.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Razor.Design/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VLWK+ZtMMNukY6XjxYHc7mz33vkquoEzQJHm/LCF5REVxIaexLr+UTImljRRJBdUDJluDAQwU+59IX0rFDfURA==",
+      "path": "microsoft.aspnetcore.razor.design/2.2.0",
+      "hashPath": "microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Language/2.2.0": {
       "type": "package",
