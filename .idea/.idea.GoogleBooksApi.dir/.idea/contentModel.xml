@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+    <e p="C:\Users\jhwang\.nuget\packages\microsoft.net.test.sdk\16.3.0\build\netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\jhwang\.nuget\packages\microsoft.testplatform.testhost\16.3.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\jhwang\.nuget\packages\microsoft.testplatform.testhost\16.3.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
     <e p="C:\Users\jhwang\.Rider2019.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\jhwang\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_.19.00" t="ExcludeRecursive" />
     <e p="C:\Users\jhwang\Documents\Repos\GoogleBookAPI" t="IncludeRecursive">
+      <e p=".vs" t="Include">
+        <e p="GoogleBooksApi" t="Include">
+          <e p="lut" t="Include">
+            <e p="0" t="Include">
+              <e p="i" t="Include">
+                <e p="GoogleBooksApi" t="Include">
+                  <e p="Debug" t="Include">
+                    <e p="netcoreapp2.2" t="Include">
+                      <e p="GoogleBooksApi.csprojAssemblyReference.cache" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="26812" t="Include">
+              <e p="i" t="Include">
+                <e p="GoogleBooksApi" t="Include">
+                  <e p="Debug" t="Include">
+                    <e p="netcoreapp2.2" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
@@ -11,15 +42,17 @@
       <e p="Controllers" t="Include">
         <e p="GoogleBooksApi.cs" t="Include" />
       </e>
-      <e p="GoogleBookApi.Test" t="Include">
+      <e p="GoogleBookAPI.Tests" t="Include">
         <e p="bin" t="Include">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
-              <e p="GoogleBookApi.Test.deps.json" t="Include" />
-              <e p="GoogleBookApi.Test.dll" t="Include" />
-              <e p="GoogleBookApi.Test.pdb" t="Include" />
-              <e p="GoogleBookApi.Test.runtimeconfig.dev.json" t="Include" />
-              <e p="GoogleBookApi.Test.runtimeconfig.json" t="Include" />
+              <e p="GoogleBookAPI.Tests.deps.json" t="Include" />
+              <e p="GoogleBookAPI.Tests.dll" t="Include" />
+              <e p="GoogleBookAPI.Tests.pdb" t="Include" />
+              <e p="GoogleBookAPI.Tests.runtimeconfig.dev.json" t="Include" />
+              <e p="GoogleBookAPI.Tests.runtimeconfig.json" t="Include" />
+              <e p="GoogleBooksApi.dll" t="Include" />
+              <e p="GoogleBooksApi.pdb" t="Include" />
               <e p="nunit.engine.netstandard.dll" t="Include" />
               <e p="NUnit3.TestAdapter.dll" t="Include" />
               <e p="NUnit3.TestAdapter.pdb" t="Include" />
@@ -31,21 +64,21 @@
         <e p="obj" t="Include">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
-              <e p="GoogleBookApi.Test.AssemblyInfo.cs" t="Include" />
-              <e p="GoogleBookApi.Test.AssemblyInfoInputs.cache" t="Include" />
-              <e p="GoogleBookApi.Test.assets.cache" t="Include" />
-              <e p="GoogleBookApi.Test.csproj.CoreCompileInputs.cache" t="Include" />
-              <e p="GoogleBookApi.Test.csproj.FileListAbsolute.txt" t="Include" />
-              <e p="GoogleBookApi.Test.csprojAssemblyReference.cache" t="Include" />
-              <e p="GoogleBookApi.Test.dll" t="Include" />
-              <e p="GoogleBookApi.Test.pdb" t="Include" />
-              <e p="GoogleBookApi.Test.Program.cs" t="Include" />
+              <e p="GoogleBookAPI.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="GoogleBookAPI.Tests.AssemblyInfoInputs.cache" t="Include" />
+              <e p="GoogleBookAPI.Tests.assets.cache" t="Include" />
+              <e p="GoogleBookAPI.Tests.csproj.CopyComplete" t="Include" />
+              <e p="GoogleBookAPI.Tests.csproj.CoreCompileInputs.cache" t="Include" />
+              <e p="GoogleBookAPI.Tests.csproj.FileListAbsolute.txt" t="Include" />
+              <e p="GoogleBookAPI.Tests.csprojAssemblyReference.cache" t="Include" />
+              <e p="GoogleBookAPI.Tests.dll" t="Include" />
+              <e p="GoogleBookAPI.Tests.pdb" t="Include" />
             </e>
           </e>
-          <e p="GoogleBookApi.Test.csproj.nuget.cache" t="Include" />
-          <e p="GoogleBookApi.Test.csproj.nuget.dgspec.json" t="Include" />
-          <e p="GoogleBookApi.Test.csproj.nuget.g.props" t="Include" />
-          <e p="GoogleBookApi.Test.csproj.nuget.g.targets" t="Include" />
+          <e p="GoogleBookAPI.Tests.csproj.nuget.cache" t="Include" />
+          <e p="GoogleBookAPI.Tests.csproj.nuget.dgspec.json" t="Include" />
+          <e p="GoogleBookAPI.Tests.csproj.nuget.g.props" t="Include" />
+          <e p="GoogleBookAPI.Tests.csproj.nuget.g.targets" t="Include" />
           <e p="project.assets.json" t="Include" />
         </e>
       </e>

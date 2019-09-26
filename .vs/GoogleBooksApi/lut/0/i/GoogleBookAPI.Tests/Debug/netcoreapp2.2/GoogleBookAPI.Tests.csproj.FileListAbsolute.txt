@@ -11,3 +11,5 @@ C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleB
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleBookAPI.Tests\Debug\netcoreapp2.2\GoogleBookAPI.Tests.dll
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBookAPI.Tests\Debug\netcoreapp2.2\GoogleBookAPI.Tests.csproj.CopyComplete
 C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\i\GoogleBookAPI.Tests\Debug\netcoreapp2.2\GoogleBookAPI.Tests.dll
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleBookAPI.Tests\Debug\netcoreapp2.2\testhost.exe
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\.vs\GoogleBooksApi\lut\0\b\GoogleBookAPI.Tests\Debug\netcoreapp2.2\testhost.dll
