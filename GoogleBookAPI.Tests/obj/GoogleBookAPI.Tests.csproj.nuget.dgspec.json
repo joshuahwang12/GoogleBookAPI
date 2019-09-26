@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBookAPI.Tests\\GoogleBookAPI.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBookAPI.Tests\\GoogleBookAPI.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBookAPI.Tests\\GoogleBookAPI.Tests.csproj",
+        "projectName": "GoogleBookAPI.Tests",
+        "projectPath": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBookAPI.Tests\\GoogleBookAPI.Tests.csproj",
+        "packagesPath": "C:\\Users\\jhwang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBookAPI.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jhwang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\jhwang\\Documents\\Local Nuget Packages": {},
+          "http://srvprdappqa01/httpAuth/app/nuget/feed/NuGetPackages/PullRequests/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/solver/auth/6b14ba38-94ab-4e75-9b42-2e0904c97837/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBooksApi.csproj": {
+                "projectPath": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBooksApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBooksApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBooksApi.csproj",
+        "projectName": "GoogleBooksApi",
+        "projectPath": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\GoogleBooksApi.csproj",
+        "packagesPath": "C:\\Users\\jhwang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhwang\\Documents\\Repos\\GoogleBookAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jhwang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\jhwang\\Documents\\Local Nuget Packages": {},
+          "http://srvprdappqa01/httpAuth/app/nuget/feed/NuGetPackages/PullRequests/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/solver/auth/6b14ba38-94ab-4e75-9b42-2e0904c97837/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Google.Apis.Books.v1": {
+              "target": "Package",
+              "version": "[1.41.1.1441, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

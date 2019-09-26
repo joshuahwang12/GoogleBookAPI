@@ -1,0 +1,4 @@
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\GoogleBookApi.Test\obj\Debug\netcoreapp2.2\GoogleBookApi.Test.csprojAssemblyReference.cache
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\GoogleBookApi.Test\obj\Debug\netcoreapp2.2\GoogleBookApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\GoogleBookApi.Test\obj\Debug\netcoreapp2.2\GoogleBookApi.Test.AssemblyInfoInputs.cache
+C:\Users\jhwang\Documents\Repos\GoogleBookAPI\GoogleBookApi.Test\obj\Debug\netcoreapp2.2\GoogleBookApi.Test.AssemblyInfo.cs

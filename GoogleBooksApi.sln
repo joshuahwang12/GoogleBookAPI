@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleBooksApi", "GoogleBooksApi.csproj", "{040F43F4-328A-432B-BDA1-883EB4EF2B96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleBookApi.Test", "GoogleBookApi.Test\GoogleBookApi.Test.csproj", "{49580C30-835E-4821-9881-B33554E5F8CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleBookAPI.Tests", "GoogleBookAPI.Tests\GoogleBookAPI.Tests.csproj", "{799DF6B6-0689-422A-8C55-6B035B097CBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{040F43F4-328A-432B-BDA1-883EB4EF2B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{040F43F4-328A-432B-BDA1-883EB4EF2B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{040F43F4-328A-432B-BDA1-883EB4EF2B96}.Release|Any CPU.Build.0 = Release|Any CPU
-		{49580C30-835E-4821-9881-B33554E5F8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49580C30-835E-4821-9881-B33554E5F8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49580C30-835E-4821-9881-B33554E5F8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49580C30-835E-4821-9881-B33554E5F8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799DF6B6-0689-422A-8C55-6B035B097CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799DF6B6-0689-422A-8C55-6B035B097CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799DF6B6-0689-422A-8C55-6B035B097CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799DF6B6-0689-422A-8C55-6B035B097CBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

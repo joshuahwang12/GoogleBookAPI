@@ -12,10 +12,10 @@ $(document).ready(function(){
     });
     async function bookSearchQuery(query) {
         const response = await fetch('/api/' + query);
-        if(response.status == 200)
+        if(response.status === 200)
         {
             const data = await response.json();
-            if(data && data.length > 0){
+            if(data){
                 for (let i = 0 ; i < data.length; i++){
                     let item = data[i];
                     let smallThumbnail = item.imageLinks ? item.imageLinks.smallThumbnail : "";
@@ -35,7 +35,7 @@ $(document).ready(function(){
         }
         else{
             console.log("No results found for: " + query);
-            document.getElementById("query-results").innerHTML = "<h4>No Results</h4>";
+            document.getElementById("query-results").innerHTML = "<h4>Unable to connect</h4>";
         }
     }
 
